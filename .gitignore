@@ -1,0 +1,93 @@
+#BG57IV3 by JetZux Ltd.
+#debug & release
+[Dd]ebug*/
+#!**/3rd/**/[Dd]ebug*/
+[Rr]elease*/
+#!**/3rd/**/[Rr]elease*/
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+#*.lib
+#lib
+#*.a
+*.la
+*.lai
+*.lo
+*.slo
+
+# Shared objects (inc. Windows DLLs)
+#*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+#*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# vc
+*.aps
+*.exp
+*.user
+*.ncb
+*.ilk
+*.obj
+*.pdb
+*.suo
+*.htm
+*.idb
+#*.manifest
+*.res
+*.dep
+*.user
+*.plg
+*.opt
+*.bsc
+*.clw
+*.tmp
+*.sbr
+*.sdf
+*.opensdf
+*.VC.db
+
+*.bak
+
+*.psess
+*.vsp
+#*.log
+*.err
+*.wrn
+*.i
+*.vspscc
+*.ipch
+*.cache
+*.tlog
+*.lastbuildstate
+*.ilk
+
+ipch
+
+# cmake
+CMakeCache.txt
+CMakeFiles/*
+#Makefile
+#cmake*
+
+# special
+*.pid
+netstackdump*
+
+**/logs/
