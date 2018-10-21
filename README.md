@@ -9,7 +9,7 @@ Format code/source for [ c c++ cs[c#,csharp] java javascript ]
 
 ## download
 
-[Release](https://github.com/JetMeta/NppAstyle/tree/master/bin "Release")
+[Release](https://github.com/JetNpp/NppAstyle/tree/master/bin "Release")
 
 ## install
 - install [Visual C++ Redistributable Packages for Visual Studio 2013](https://www.microsoft.com/en-gb/download/details.aspx?id=40784)
