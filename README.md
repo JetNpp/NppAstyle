@@ -1,5 +1,5 @@
 # NppAstyle
-Format code/source for [ c c++ cs[c#,csharp] java javascript ]
+Format code/source for [ c c++ cs[c#,csharp] java javascript objc[m,mm] ]
 
 ## Notepad++ Astyle Plugin
 ### usage
@@ -13,7 +13,7 @@ Format code/source for [ c c++ cs[c#,csharp] java javascript ]
 
 ## install
 - install [Visual C++ Redistributable Packages for Visual Studio 2013](https://www.microsoft.com/en-gb/download/details.aspx?id=40784)
-- copy the .DLL file into the plugins folder within your Notepad++ installation folder (e.g. \Program Files (x86)\Notepad++\plugins\ for x86 version).
+- copy the .DLL file into the plugins folder within your Notepad++ installation folder (e.g. \Program Files (x86)\Notepad++\plugins\ for x86 version). After updating npp to 7.6.6, it seems should put these plugins in seperate folder with same name as the plugin dll.
 
 ### env info
 |env   | ver|
