@@ -20,13 +20,16 @@ Format code/source for [ c c++ cs[c#,csharp] java javascript objc[m,mm] ]
 | - | - |
 |__os__|windows 7 x64|
 |__compiler__|MSVC 2013 UPDATE5|
-|NppAstyle.Ver|0.11.2.17|
+|NppAstyle.Ver|0.11.2.18|
 |NppAstyle.dll|windows,x86|
 |NppAstyle(x64).dll|windows,x64|
 
 [logo]:https://github.com/JetMeta/ZToolKit/blob/master/Avator/jz_l.png "JetZux"
 
 ## Change Log
+### [0.11.2.18] - 2019-04-18
+- +.update AStyleLib to 3.1
+
 ### [0.11.2.17] - 2019-04-17
 - +.add support to objc (objective-c) files (.m .mm), as needed.
 
