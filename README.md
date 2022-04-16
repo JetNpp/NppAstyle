@@ -27,6 +27,9 @@ Format code/source for [ c c++ cs[c#,csharp] java javascript objc[m,mm] ]
 [logo]:https://github.com/JetMeta/ZToolKit/blob/master/Avator/jz_l.png "JetZux"
 
 ## Change Log
+### [0.11.2.18] - 2022-04-16
+- +. remove option pad-paren-in
+
 ### [0.11.2.18] - 2019-05-29
 - +.fix disable some add/remove options of astyle.
 
