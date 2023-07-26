@@ -12,7 +12,7 @@ Format code/source for [ c c++ cs[c#,csharp] java javascript objc[m,mm] ]
 [Release](https://github.com/JetNpp/NppAstyle/tree/master/bin "Release")
 
 ## install
-- install [Visual C++ Redistributable Packages for Visual Studio 2017 xp]
+- compiled by [Visual C++ Redistributable Packages for Visual Studio 2017 xp]
 - copy the .DLL file into the plugins folder within your Notepad++ installation folder (e.g. \Program Files (x86)\Notepad++\plugins\ for x86 version). After updating npp to 7.6.6, it seems should put these plugins in seperate folder with same name as the plugin dll.
 
 ### env info
@@ -29,6 +29,7 @@ Format code/source for [ c c++ cs[c#,csharp] java javascript objc[m,mm] ]
 ## Change Log
 ### [0.11.2.19] - 2023-07-26
 - +.update AStyleLib to 3.4
+- +.webkit style
 
 ### [0.11.2.18] - 2022-04-16
 - +. remove option pad-paren-in
