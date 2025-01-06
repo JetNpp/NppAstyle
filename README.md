@@ -12,21 +12,24 @@ Format code/source for [ c c++ cs[c#,csharp] java javascript objc[m,mm] ]
 [Release](https://github.com/JetNpp/NppAstyle/tree/master/bin "Release")
 
 ## install
-- compiled by [Visual C++ Redistributable Packages for Visual Studio 2017 xp]
+- compiled by [Visual C++ Redistributable Packages for Visual Studio 2019]
 - copy the .DLL file into the plugins folder within your Notepad++ installation folder (e.g. \Program Files (x86)\Notepad++\plugins\ for x86 version). After updating npp to 7.6.6, it seems should put these plugins in seperate folder with same name as the plugin dll.
 
 ### env info
 |env   | ver|
 | - | - |
 |__os__|windows 8 x64|
-|__compiler__|MSVC 2017 xp|
-|NppAstyle.Ver|0.11.2.19|
+|__compiler__|MSVC 2019|
+|NppAstyle.Ver|0.11.2.20|
 |NppAstyle.dll|windows,x86|
 |NppAstyle(x64).dll|windows,x64|
 
 [logo]:https://github.com/JetMeta/ZToolKit/blob/master/Avator/jz_l.png "JetZux"
 
 ## Change Log
+### [0.11.2.20] - 2025-01-07
+- +.update AStyleLib to 3.6.6
+
 ### [0.11.2.19] - 2023-07-26
 - +.update AStyleLib to 3.4
 - +.webkit style
