@@ -20,13 +20,17 @@ Format code/source for [ c c++ cs[c#,csharp] java javascript objc[m,mm] ]
 | - | - |
 |__os__|windows 8 x64|
 |__compiler__|MSVC 2019|
-|NppAstyle.Ver|0.11.2.20|
+|NppAstyle.Ver|0.11.2.21|
 |NppAstyle.dll|windows,x86|
 |NppAstyle(x64).dll|windows,x64|
 
 [logo]:https://github.com/JetMeta/ZToolKit/blob/master/Avator/jz_l.png "JetZux"
 
 ## Change Log
+### [0.11.2.21] - 2026-06-17
+- +.update AStyleLib to 3.6.16
+- +.add-braces、pad-header
+
 ### [0.11.2.20] - 2025-05-02
 - +.update AStyleLib to 3.6.9
 
